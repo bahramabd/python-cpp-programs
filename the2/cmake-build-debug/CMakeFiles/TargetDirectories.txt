@@ -1,0 +1,3 @@
+C:/Users/Bahram/CLionProjects/the2/cmake-build-debug/CMakeFiles/the2.dir
+C:/Users/Bahram/CLionProjects/the2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bahram/CLionProjects/the2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
